@@ -64,6 +64,7 @@ Datei	Beschreibung
 NormalLeg.py	Zweigelenkiges Bein mit IK und Visualisierung
 RoboLeg.py	Modell mit Hebel‑ und Stangenmechanik
 LICENSE	MIT‑Lizenz
+
 ❗ Hinweise
 Das Projekt ist experimentell – geeignet für Lern‑ und Experimentierzwecke.
 
